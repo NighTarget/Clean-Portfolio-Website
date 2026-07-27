@@ -20,7 +20,7 @@
                 Full-stack web platform built with Laravel and Next.js, featuring a clean minimalist layout and responsive design.
             </p>
             <div class="pt-1">
-                <a href="https://github.com/NighTarget/" target="_blank" class="text-xs font-mono text-neutral-500 hover:text-neutral-900 transition">GitHub &rarr;</a>
+                <a href="https://github.com/NighTarget/Clean-Portfolio-Website" target="_blank" class="text-xs font-mono text-neutral-500 hover:text-neutral-900 transition">GitHub &rarr;</a>
             </div>
         </article>
 
